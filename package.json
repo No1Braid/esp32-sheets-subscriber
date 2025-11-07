@@ -1,0 +1,9 @@
+{
+  "name": "esp32-sheets-subscriber",
+  "version": "1.0.0",
+  "main": "subscriber.js",
+  "dependencies": {
+    "mqtt": "^5.0.0",
+    "axios": "^1.6.0"
+  }
+}
